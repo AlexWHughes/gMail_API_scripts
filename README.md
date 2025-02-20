@@ -37,7 +37,7 @@ Before running the scripts, ensure you have:
 
 1. **Clone this repository:**
 ```bash
-git clone https://github.com/your-alexwhughes/google-workspace-ooo-automation.git
+git clone https://github.com/AlexWHughes/gMail_API_scripts.git
 cd google-workspace-ooo-automation
 ```
 
